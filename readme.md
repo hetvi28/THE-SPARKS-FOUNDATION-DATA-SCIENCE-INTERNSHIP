@@ -1,4 +1,4 @@
-# Drug-Discovery
+
 
 The project was inspired by the desire to understand the impact of study habits on academic performance.
 
